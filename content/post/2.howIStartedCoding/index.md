@@ -2,7 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "How I Started Programming"
-subtitle: "Click in for some stuff"
+subtitle: ""
 summary: "a glimpse into young will su"
 authors: []
 tags: []
@@ -27,3 +27,4 @@ image:
 #   Otherwise, set `projects = []`.
 projects: []
 ---
+Coming Soon!

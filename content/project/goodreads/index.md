@@ -1,15 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "News Sentiment Stock Prediction"
-summary: "Can we use sentiment analysis on news articles to predict the stock market?"
+title: "What's My Next Book?"
+summary: "I didn't know what book to read next so I built a few recommender systems to help me."
 authors: [William Su]
-tags: [data science]
+tags: [data science, neural network]
 categories: []
 date: 2019-06-28T15:58:12-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/jonathancai11/news-sentiment"
+external_link: "https://github.com/willsu88/GoodreadsProject"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -17,7 +17,7 @@ external_link: "https://github.com/jonathancai11/news-sentiment"
 image: 
   caption: ""
   focal_point: "Smart"
-  preview_only: false
+  preview_only: true
 
 # Custom links (optional).
 #   Uncomment and edit lines below to show custom links.

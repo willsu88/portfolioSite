@@ -2,14 +2,14 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Hedwig"
-summary: ""
+summary: "A campus food delivery app to fill up Rice students' colossal appetite."
 authors: [William Su]
 tags: []
 categories: []
 date: 2019-06-28T15:58:12-05:00
-featured: true
+featured: false
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+external_link: "https://github.com/rice-apps/RiceDeliveryVendorFrontEnd"
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
