@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: William Su
 
 # Username (this should match the folder name)
 authors:
@@ -10,32 +10,32 @@ authors:
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: CS Student / Software Engineer
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Rice University
+  url: "https://csweb.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Hey, thanks for reading! I'm always open to new challenges, friends, and opportunities. Hit me up! 
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Deep Learning
+- Natural Language Processing
+- Personal Fitness
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: Master of Computer Science
+    institution: Rice University
+    year: 2021
+  - course: Bachelor of Arts in Computer Science
+    institution: Rice University
+    year: 2021
+  - course: High School Diploma
+    institution: The SMIC Private School - Shanghai
+    year: 2017
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/widgets/#icons
@@ -45,31 +45,25 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://www.linkedin.com/in/willsu88/
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.  
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+  link: https://github.com/willsu88
+- icon: cv
+  icon_pack: ai
+  link: img/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ""
   
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.  
-user_groups:
-- Researchers
-- Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Hey! I am a CS student studying at Rice University in Houston, Texas. It has been around three years since I wrote my first line of code - yup, it was print "Hello World". To this day, I'm still always fascinated by how valuable and powerful software programs can be and love learning new technologies.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+In particular, I am interested in the crossroad of software engineering, data science, and social good. How and why do my few lines of code matter? I enjoy putting these doubts to the test and bringing meaningful products to life. 
+
+Programming: do more good work with less friction, less time, and more joy.
+
+

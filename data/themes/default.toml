@@ -1,0 +1,20 @@
+# Theme metadata
+name = "Default"
+
+# Is theme light or dark?
+light = true
+
+# Primary
+primary = "#e65247"
+
+# Menu
+menu_primary = "#fff"
+menu_text = "#e65247"
+menu_text_active = "#a6a9ad"
+menu_title = "#fff"
+
+# Home sections
+home_section_odd = "#fff"
+home_section_even = "#fff"
+
+#https://visme.co/blog/website-color-schemes/
