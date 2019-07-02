@@ -38,7 +38,10 @@ date_format = "Jan 2006"
   date_start = "2019-05-13"
   date_end = "2019-07-20"
   description = """
-  Currently working on an ML on FPGA project.
+  * Achieved 80% accuracy in malware detection through training a fully-connected neural network.
+  * Reduced complexity to inject neural network onto FPGA through post-quantizing network weights.
+  * Validated code correctness of an FPGA using Verilog through developing tests in C and Xilinx Vivado.
+  * Streamlined a data pipeline across multiple AWS services using Apache Nifi.
   """
 
 
