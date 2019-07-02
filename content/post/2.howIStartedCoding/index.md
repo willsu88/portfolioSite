@@ -3,12 +3,12 @@
 
 title: "How I Started Programming"
 subtitle: ""
-summary: "a glimpse into young will su"
+summary: "Young Will Su"
 authors: []
 tags: []
 categories: []
-date: 2019-06-25T16:44:30-05:00
-lastmod: 2019-06-27T16:10:30-05:00
+date: 2019-07-01T23:35:00-05:00
+lastmod: 
 featured: true
 draft: false
 
