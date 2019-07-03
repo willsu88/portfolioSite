@@ -7,7 +7,7 @@ headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "Will's Blog"
+title = "Blog"
 subtitle = ""
 
 [content]
@@ -37,6 +37,7 @@ subtitle = ""
   #   3 = Card
   #   4 = Citation (publication only)
   view = 3
+  columns = "1"
   
 [design.background]
   # Apply a background color, gradient, or image.

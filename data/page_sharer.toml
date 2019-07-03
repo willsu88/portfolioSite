@@ -1,15 +1,6 @@
 # Page Sharer
 # Documentation: https://sourcethemes.com/academic/docs/customization/#page-sharer
 
-
-[[buttons]]
-  id = "email"
-  url = "mailto:?subject={title}&body={url}"
-  title = "Email"
-  icon_pack = "fas"
-  icon = "envelope"
-  enable = true
-
 [[buttons]]
   id = "linkedin"
   url = "https://www.linkedin.com/shareArticle?url={url}&title={title}"
