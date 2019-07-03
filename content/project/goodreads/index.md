@@ -6,10 +6,10 @@ summary: "I didn't know what book to read next so I built a few recommender syst
 authors: [William Su]
 tags: [data science, neural network]
 categories: []
-date: 2019-06-28T15:58:12-05:00
+date: 2018-12-12T15:58:12-05:00
 
 # Optional external URL for project (replaces project detail page).
-external_link: "https://github.com/willsu88/GoodreadsProject"
+external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,3 +39,4 @@ url_video: ""
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+If you're interested in the actual implementations and some of the visualizations I've prepared, go check out the [Github repo](https://github.com/willsu88/GoodreadsProject)!

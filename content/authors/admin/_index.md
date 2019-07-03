@@ -23,6 +23,7 @@ bio: Hey, thanks for reading! I'm always open to new challenges, friends, and op
 interests:
 - Deep Learning
 - Natural Language Processing
+- Product Management
 - Personal Fitness
 
 education:

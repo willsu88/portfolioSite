@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 3  # Order that this section will appear.
+weight = 20  # Order that this section will appear.
 
 title = ""
 subtitle = "Experience"
@@ -56,6 +56,18 @@ date_format = "Jan 2006"
   * Streamlined daily data ETL process through Python, reducing time up to 2 hours a day.
   * Redesigned data exploration testing procedures by implementing temporary databases in SQLite
   * Generated weekly sales data visualizations using Matplotlib, Seaborn, and QlikSense
+  """
+  
+[[experience]]
+  title = "Student Developer"
+  company = "Rice Digital Gym"
+  company_url = "http://ricedigitalgym.blogs.rice.edu/"
+  location = "Houston, Texas"
+  date_start = "2018-01-01"
+  date_end = "2018-05-30"
+  description = """
+  * Wireframed an iOS app for personal health using InVision.
+  * Assisted in setting up Firebase authentication for app users.
   """
 
 +++
