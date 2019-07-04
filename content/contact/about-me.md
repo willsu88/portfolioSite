@@ -46,4 +46,4 @@ subtitle = ""
  # CSS class.
  css_class = "mini"
 +++
-i promise to write more when i have time
+Hey yo I am William Su!
