@@ -58,7 +58,7 @@ Athletes      | Books/Sites to Read                        | Places I've Been
 ---           |                                        --- | ---
 Kobe Bryant   | Shoe Dog                                   | Bali, Indonesia
 Michael Phelps| Dreams From My Father                      | Kathmandu, Nepal
-Jeremey Lin   | Lion: A Long Way From Home                 | Kyoto, Japan
+Jeremy Lin    | Lion: A Long Way From Home                 | Kyoto, Japan
 Derek Jeter   | [Stratechery.com](https://stratechery.com/)| Gold Coast, Australia
               | [theVerge.com](https://www.theverge.com/)  | Phuket, Thailand
               | [Economist.com](https://www.economist.com/)| Tijuana, Mexico
