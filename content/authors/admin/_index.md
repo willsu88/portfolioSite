@@ -10,19 +10,19 @@ authors:
 superuser: true
 
 # Role/position
-role: CS Student / Software Engineer
+role: "\"theorize, actualize, optimize\""
 
 # Organizations/Affiliations
 organizations:
 - name: Rice University
-  url: "https://csweb.rice.edu/"
+  url: "https://www.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Hey, thanks for reading! I'm always open to new challenges, friends, and opportunities. Hit me up! 
 
 interests:
 - Deep Learning
-- Natural Language Processing
+- App Development
 - Product Management
 - Personal Fitness
 
@@ -61,10 +61,13 @@ email: ""
   
 ---
 
-Hey! I am a CS student studying at Rice University in Houston, Texas. It has been around three years since I wrote my first line of code - yup, it was print "Hello World". To this day, I'm still always fascinated by how valuable and powerful software programs can be and love learning new technologies.
+I am a CS student currently studying at Rice University in Houston TX, USA. It has been around three years since I wrote my first line of code - yup, it was print "Hello World". To this day, I'm still always fascinated by how powerful software programs can be and love learning new technologies.
 
-In particular, I am interested in the crossroad of software engineering, data science, and social good. How and why do my few lines of code matter? I aspire to put these doubts to the test and bring meaningful products to life. 
+In particular, I am interested in the crossroad of software engineering, data science, and social good. How and why do my few lines of code matter? I aspire to put these doubts to the test and bring  products that can help us do more with less time, less friction. 
 
-"Theorize, Actualize, Optimize"
+
+
+
+
 
 

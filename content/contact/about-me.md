@@ -4,7 +4,7 @@
 # Add more sections by duplicating this file and customizing to your requirements.
 
 widget = "blank"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+headless = false  # This file represents a page section.
 active = true # Activate this widget? true/false
 weight = 3  # Order that this section will appear.
 
@@ -46,4 +46,21 @@ subtitle = ""
  # CSS class.
  css_class = "mini"
 +++
-Hey yo I am William Su!
+Hey friend, welcome to my site!
+
+This website is primarily used to document my projects, keep track of the work/volunteer experiences I’ve had over the years, and perhaps offer a little glimpse into my mind ;) 
+
+Aside from tech, I also enjoy playing basketball & swimming, reading by the pool, and traveling with family & friends. Living off-campus for the first time, I’ve also recently picked up cooking. For now, I’m finding it pretty fun, but who knows when I’ll get sick of my own food?
+
+Here's a snapshot of my favorites:
+
+Athletes      | Books/Sites to Read                        | Places I've Been
+---           |                                        --- | ---
+Kobe Bryant   | Shoe Dog                                   | Bali, Indonesia
+Michael Phelps| Dreams From My Father                      | Kathmandu, Nepal
+Jeremey Lin   | Lion: A Long Way From Home                 | Kyoto, Japan
+Derek Jeter   | [Stratechery.com](https://stratechery.com/)| Gold Coast, Australia
+              | [theVerge.com](https://www.theverge.com/)  | Phuket, Thailand
+              | [Economist.com](https://www.economist.com/)| Tijuana, Mexico
+
+
