@@ -3,7 +3,7 @@
 
 title: "About This Blog"
 subtitle: ""
-summary: "Why Did I Start This Blog?"
+summary: " "
 authors: []
 tags: []
 categories: []
@@ -36,10 +36,8 @@ In the long run, I am counting on this blog to act as some sort of mental checkp
 
 Furthermore, as I’m not too frequent of a social media user right now, I do think having this blog can potentially serve as a subtler, more low-key medium for my friends afar and others interested in my life -- not that I really expect anyone to be haha -- to get a glimpse of my thought process and who I am. 
 
-07/01/2019
-
 <p>
-    <img src="featured.jpg" alt>
+    <img src="featured.jpg">
     <em>Image Source: stageoflife.com</em>
 </p>
 

@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: "\"theorize, actualize, optimize\""
+role: "Software Developer"
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.rice.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Hey, thanks for reading! I'm always open to new challenges, friends, and opportunities. Hit me up! 
+bio: Hey, thanks for reading! I'm always open to new challenges, friends, or typo fixes haha. Find me anywhere below! 
 
 interests:
 - Deep Learning
