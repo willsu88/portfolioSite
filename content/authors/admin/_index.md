@@ -21,17 +21,14 @@ organizations:
 bio: Hey, thanks for reading! I'm always open to new challenges, friends, or typo fixes haha. Find me anywhere below! 
 
 interests:
-- Deep Learning
-- App Development
-- Product Management
-- Personal Fitness
+- Data ETL 
+- Cloud Computing
+- Finance
+- Basketball
 
 education:
   courses:
-  - course: Master of Computer Science
-    institution: Rice University
-    year: 2021
-  - course: Bachelor of Arts in Computer Science
+  - course: Bachelor of Science in Computer Science
     institution: Rice University
     year: 2021
   - course: High School Diploma
@@ -61,9 +58,10 @@ email: ""
   
 ---
 
-I am a CS student currently studying at Rice University in Houston TX, USA. It has been around three years since I wrote my first line of code - yup, it was print "Hello World". To this day, I'm still always fascinated by how powerful software programs can be and love learning new technologies.
+I am a CS student currently studying at Rice University in Houston TX, USA. It has been around 3 years since I wrote my first line of code and was half-amused that the console does indeed spit back "hello world!". Since then, I've worked on a few projects at school & internships, taken some high-level CS classes, and grown to become more fascinated by how powerful software programs can be. 
 
-In particular, I am interested in the crossroad of software engineering, data science, and social good. How and why do my few lines of code matter? I aspire to put these doubts to the test and bring  products that can help us do more with less time, less friction. 
+Welcome to my site!
+
 
 
 

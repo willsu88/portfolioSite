@@ -19,18 +19,6 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[experience]]
-  title = "COMP 215 Academic Fellow"
-  company = "Rice University"
-  company_url = "https://comp215.blogs.rice.edu/"
-  location = "Houston, Texas"
-  date_start = "2019-08-01"
-  date_end = "2019-12-01"
-  description = """
-  * Will tutor Rice's COMP 215 (Introduction to Program Design) in Fall 2019.
-  * Will host weekly office hours to review course material.
-  """
-
-[[experience]]
   title = "Software Engineering Intern"
   company = "Expero Inc"
   company_url = "https://www.experoinc.com/"
@@ -38,12 +26,23 @@ date_format = "Jan 2006"
   date_start = "2019-05-13"
   date_end = "2019-07-20"
   description = """
-  * Achieved 80% accuracy in malware detection through training a fully-connected neural network.
-  * Reduced complexity to inject neural network onto FPGA through post-quantizing network weights.
-  * Validated code correctness of an FPGA using Verilog through developing tests in C and Xilinx Vivado.
-  * Streamlined a data pipeline across multiple AWS services using Apache Nifi.
+  * Achieved 85% accuracy in malware detection through deep learning models.
+  * Remodeled a neural network to be FPGA-compatible through post-quantizing its weights.
+  * Developed experiments in C and Xilinx Vivado to validate neural network logic for FPGA's.
+  * Streamlined data pipelines across multiple AWS services using Apache Nifi.
   """
-
+[[experience]]
+  title = "Full-Stack Developer"
+  company = "RiceApps: Hedwig"
+  company_url = "http://riceapps.org"
+  location = "Houston, TX"
+  date_start = "2018-08-01"
+  date_end = "2019-05-01"
+  description = """
+  * Developed 2 iOS campus-food delivery apps with React Native, GraphQL, and mLab.
+  * Consolidated payment security & improved inventory management by integrating Stripe.
+  * Wireframed the apps’ UI using Invision Studio.
+  """
 
 [[experience]]
   title = "Data Science Intern"
@@ -58,16 +57,5 @@ date_format = "Jan 2006"
   * Generated weekly sales data visualizations using Matplotlib, Seaborn, and QlikSense
   """
   
-[[experience]]
-  title = "Student Developer"
-  company = "Rice Digital Gym"
-  company_url = "http://ricedigitalgym.blogs.rice.edu/"
-  location = "Houston, Texas"
-  date_start = "2018-01-01"
-  date_end = "2018-05-30"
-  description = """
-  * Wireframed an iOS app for personal health using InVision.
-  * Assisted in setting up Firebase authentication for app users.
-  """
 
 +++
