@@ -11,6 +11,7 @@ day_night = true
 #   Choose from `default`, `classic`, or `playfair`.
 font = "willsu-font"
 
+
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
 
@@ -47,9 +48,10 @@ time_format = "3:04 PM"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "William.Su@rice.edu"
+email = "william.su0114@gmail.com"
 phone = "+1 (360) 213 6063"
-address = "2600 Gramercy Street, Houston, TX, 77030, USA"
+address = "Seattle, WA"
+
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 # office_hours = """Monday 10:00 to 13:00<br>
@@ -148,7 +150,7 @@ sharing = true
   #   0: No search engine
   #   1: Academic (built-in)
   #   2: Algolia (https://www.algolia.com)
-  engine = 1
+  engine = 0
 
   # Configuration of Algolia search engine.
   # Paste the values from your Algolia dashboard.

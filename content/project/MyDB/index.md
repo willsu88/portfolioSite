@@ -1,16 +1,15 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Fun / Useful Scripts"
-summary: "Here's a list of scripts that I've written"
+title: "My DB"
+summary: "Fully-functioning database with file & buffer management, SQL query, and optimization features."
 authors: [William Su]
-tags: [scripts]
+tags: [C++, SQL Processing, Buffer Management, File System]
 categories: []
-draft: true
-date: 2017-09-12T15:58:12-05:00
-
+date: 2020-05-03T12:58:12-05:00
+featured: false
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+# external_link: ""
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -39,7 +38,4 @@ url_video: ""
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
 slides: ""
-
 ---
-## Scripts
-[Change MacOS Desktop Background to Random Unsplash Photo](https://gist.github.com/willsu88/786c79da1c3ab7c3ff007c54c27f6028)

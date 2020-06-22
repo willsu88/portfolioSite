@@ -1,18 +1,34 @@
+# # Font style metadata
+# name = "willsu-font"
+
+# # Optional Google font URL
+# # google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# # Optional Google font URL
+# # google_fonts = "Lora:400,400i|Karla:400,700|Roboto+Mono"
+
+# # Font families
+# heading_font = "Lora"
+# body_font = "B612"
+# nav_font = "B612"
+# mono_font = "Roboto Mono"
+
+# # Font size
+# font_size = "16"
+# font_size_small = "15"
+# ----------------------------------------------------------
 # Font style metadata
 name = "willsu-font"
 
 # Optional Google font URL
-# google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
-
-# Optional Google font URL
-# google_fonts = "Lora:400,400i|Karla:400,700|Roboto+Mono"
+google_fonts = "Lato:400,700|Merriweather|Roboto+Mono"
 
 # Font families
-heading_font = "Lora"
-body_font = "B612"
-nav_font = "B612"
+heading_font = "Lato"
+body_font = "Merriweather"
+nav_font = "Lato"
 mono_font = "Roboto Mono"
 
 # Font size
-font_size = "16"
-font_size_small = "15"
+font_size = "17"
+font_size_small = "14"
